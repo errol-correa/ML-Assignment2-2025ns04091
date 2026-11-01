@@ -20,8 +20,8 @@ The objective of this project is to develop, evaluate, and deploy an end-to-end 
   - Preserved an 80/20 stratified train/test split.
 
 ## c. Repository and Live Application Links
-- **GitHub Repository Link:** [Add your GitHub Repo URL here]
-- **Live Streamlit App Link:** [Add your Streamlit Community Cloud URL here]
+- **GitHub Repository Link:** https://github.com/errol-correa/ML-Assignment2-2025ns04091
+- **Live Streamlit App Link:** https://ml-assignment2-2025ns04091.streamlit.app
 
 ## d. Models Used & Evaluation Metrics Comparison
 
